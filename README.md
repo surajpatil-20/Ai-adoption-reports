@@ -9,9 +9,9 @@ A project focused on AI adoption, accessibility, and insights through an interac
 
 | Resource | Link |
 |---|---|
-| 🚀 Live Demo | [View Demo](YOUR_DEMO_LINK) |
+| 🚀 Live Demo | [View Demo]((https://drive.google.com/file/d/11dEoB-Hff4B1jCJ3QAB3l_sIn2Zz8Jn6/view?usp=drivesdk)) |
 | 📖 Project Story | [Read Story](https://public.tableau.com/app/profile/suraj.patil7317/viz/Aiadoptionstory/Story1) |
-| 📊 Dashboard | [Explore Dashboard]([YOUR_DASHBOARD_LINK](https://public.tableau.com/app/profile/suraj.patil7317/viz/Aiadoptiondashboard2/Dashboard2)) |
+| 📊 Dashboard | [Explore Dashboard]((https://public.tableau.com/app/profile/suraj.patil7317/viz/Aiadoptiondashboard2/Dashboard2)) |
 | 📄 Final Project Report | [View Report (PDF)](https://github.com/surajpatil-20/Ai-adoption-reports/blob/main/FINAL%20PROJECT%20REPORT.pdf) |
 | 💻 GitHub Repository | [View Source Code](https://github.com/surajpatil-20/Ai-adoption-reports) |
 
